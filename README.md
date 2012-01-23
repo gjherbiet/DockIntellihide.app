@@ -6,7 +6,7 @@ This is similar to Ubuntu Unity's Intellihide: your Mac OS X Dock will be always
 
 ## Usage
 
-Simply fork this repository or download it as an archive. In the latter case, extract the application and rename it to `DockIntellihide.app`. Double-click to launch.
+Simply fork this repository or [download the latest version](https://github.com/downloads/gjherbiet/DockIntellihide.app/DockIntellihide.zip).
 
 If you like it, add it to your **Login Items** in **Users & Groups** pane of **System Preferences**.
 
